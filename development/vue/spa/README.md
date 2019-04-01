@@ -1,4 +1,4 @@
-#this line has been added while on the 'dev' branch.
+#this line has been added while in third-branch
 # spa
 
 ## Project setup
