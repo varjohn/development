@@ -1,4 +1,4 @@
 function test()
 {
-  console.log("test Oh y ayasss! TayASSTT!!!");
+  console.log("test change after change!");
 }
