@@ -1,4 +1,4 @@
 function test()
 {
-  console.log("message made from a-new-branch -- this branch was made from master, needs to merge to dev.")
+  console.log("a-new-branch has been merged to dev once already. this change should merge with no problem...theoretically...")
 }
