@@ -1,4 +1,4 @@
 function test()
-{
-  console.log("This change is made from.. BING BOOM dingdingiddindgidning. !");
+{            
+  console.log("This change is made from.. BING BOOM . !");
 }
