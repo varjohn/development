@@ -1,4 +1,4 @@
-#this change made while in dev
+#this line has been added while in 3rd branch
 # spa
 
 ## Project setup
